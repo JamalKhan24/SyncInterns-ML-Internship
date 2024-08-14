@@ -1,3 +1,3 @@
 # SyncInterns_ML_Internship
 
-This repository for the tasks of Machine Learning internship at Sync Intern's.
+This repository contains the tasks of the Machine Learning internship at SYNC INTERN'S.
